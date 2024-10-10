@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **garv5704/garv5704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <h1>Hi from Garv khatri</h1>
+  I am a <b>BCA</b> Student
+<h4>🥗Let me Cook Something!🥗</h4>
+</div>
