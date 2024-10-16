@@ -20,3 +20,39 @@ Here are some ideas to get you started:
   I am a <b>BCA</b> Student
 <h4>🥗Let me Cook Something!🥗</h4>
 </div>
+
+Techs Worked with me:
+
+<div>
+<p>
+  <!-- HTML -->
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  
+  <!-- CSS -->
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  
+  <!-- JavaScript -->
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+  
+  <!-- Java -->
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  
+  <!-- C -->
+  <img src="https://skillicons.dev/icons?i=c" alt="C" />
+  
+  <!-- C++ -->
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  
+  <!-- Linux -->
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  
+  <!-- React -->
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  
+  <!-- Notion -->
+  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" />
+  
+  <!-- Bootstrap -->
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+</p>
+</div>
