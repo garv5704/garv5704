@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&duration=3000&pause=1000&center=true&width=435&lines=Welcome+to+my+Profile!;Explore+Recent+Repositories" alt="Typing SVG" /></a>
   <h1>Hi from Garv khatri</h1>
-  I am a <b>BCA</b> Student and Currently 🚀 Diving into React ⚛️
+  I am a <b>BCA</b> Student and Currently 🚀 Diving into MERN ⚛️
 <h4>🥗Let me Cook Something!🥗</h4>
 </div>
 
@@ -47,8 +47,17 @@ Techs Worked with me:
   <!-- Linux -->
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
   
-  <!-- React -->
-  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <!-- NodeJs -->
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" />
+
+  <!-- ExpressJs -->
+  <img src="https://skillicons.dev/icons?i=expressjs" alt="ExpressJs" />
+
+  <!-- MongoDB -->
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" />
+
+  <!-- PostMan -->
+  <img src="https://skillicons.dev/icons?i=postman" alt="postman" />
   
   <!-- Notion -->
   <img src="https://skillicons.dev/icons?i=notion" alt="Notion" />
