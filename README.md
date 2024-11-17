@@ -67,5 +67,5 @@ Techs Worked with me:
 </p>
 </div>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garvkhatrii&theme=radical" alt="garvkhatri" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=garvkhatrii&theme=transparent)](https://git.io/streak-stats)
 
