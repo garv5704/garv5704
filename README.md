@@ -68,4 +68,6 @@ Techs Worked with me:
 </div>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=garvkhatrii&theme=cobalt"/></a>
+![Profile Views](https://komarev.com/ghpvc/?username=garvkhatrii&color=blue)
+
 
